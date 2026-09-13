@@ -1,9 +1,8 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration/#add-on-dockerfile
-ARG BUILD_FROM
-FROM $BUILD_FROM
+FROM ghcr.io/home-assistant/base:3.24 
 
 # Set mysa2mqtt version
-ARG mysa2mqttRevision=1.2.2
+ARG mysa2mqttRevision=3.2.5
 
 # Install requirements for add-on
 RUN \

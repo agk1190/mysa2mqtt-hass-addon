@@ -27,7 +27,6 @@ mysa_password: ""             # required; your Mysa account password
 log_level: info               # silent|fatal|error|warn|info|debug|trace
 log_format: pretty            # pretty|json
 temperature_unit: C           # C|F; must match your Home Assistant unit system
-mysa_session_file: /config/mysa2mqtt/session.json
 ```
 
 Important notes:

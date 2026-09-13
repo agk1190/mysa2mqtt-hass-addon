@@ -1,3 +1,8 @@
+## [0.2.0] - 2026-09-13
+
+- Removed session file as it was removed from Mysa2mqtt in 2.0.0
+- Fixed docker BUILD_FROM error
+
 ## [0.1.2] - 2026-01-18
 
 - Set session file default to be /config/mysa2mqtt/session.json
