@@ -8,7 +8,7 @@ climate and sensor entities using MQTT discovery, so devices show up automatical
 ## Installation
 
 1. In Home Assistant: Settings → Add-ons → Add-on Store → ⋮ (top right) → Repositories.
-2. Add the repository URL: `https://github.com/itsamenathan/mysa2mqtt-hass-addon`.
+2. Add the repository URL: `https://github.com/agk1190/mysa2mqtt-hass-addon`.
 3. Install **Mysa2MQTT** from the list and open the add-on.
 
 ## Configuration
