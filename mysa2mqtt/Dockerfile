@@ -2,7 +2,7 @@
 FROM ghcr.io/home-assistant/base:3.24 
 
 # Set mysa2mqtt version
-ARG mysa2mqttRevision=3.2.5
+ARG mysa2mqttRevision=3.2.6
 
 # Install requirements for add-on
 RUN \
