@@ -1,6 +1,6 @@
 name: "Mysa2MQTT"
 slug: "mysa2mqtt"
-version: "0.2.1"
+version: "0.2.2"
 description: "Expose Mysa smart thermostats to MQTT for Home Assistant."
 url: "https://github.com/agk1190/mysa2mqtt-hass-addon"
 arch:
